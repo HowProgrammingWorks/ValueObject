@@ -1,2 +1,1 @@
-# ValueObject
-ValueObject pattern
+# Value-object and Null-object pattern
